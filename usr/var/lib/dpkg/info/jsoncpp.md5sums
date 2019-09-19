@@ -1,0 +1,16 @@
+d060a910101aa78094e3c68b66808ba6  data/data/com.termux/files/usr/include/json/assertions.h
+a7074d16ba1bbfe3ce84fc221ab5e92b  data/data/com.termux/files/usr/include/json/autolink.h
+df19fc964fccf53e752daac5aff25aea  data/data/com.termux/files/usr/include/json/config.h
+7bcf01c008057b9534858097090b61b2  data/data/com.termux/files/usr/include/json/writer.h
+6f43d039aa734b08c57bcb750137e875  data/data/com.termux/files/usr/include/json/json.h
+c5afb19ae1e8f700cd000170ce9c2fe6  data/data/com.termux/files/usr/include/json/value.h
+047384f612c746bae40ba1015b1814aa  data/data/com.termux/files/usr/include/json/reader.h
+a8fa52d1ded28aca9ce89da93c0f4a4a  data/data/com.termux/files/usr/include/json/version.h
+8cf168bd7d2035edf8f0124b17632bdf  data/data/com.termux/files/usr/include/json/forwards.h
+e4db8b78f9908221c39d3657863bb687  data/data/com.termux/files/usr/include/json/allocator.h
+a0f044a914b9c3d23c40a5e440beed92  data/data/com.termux/files/usr/include/json/features.h
+4a652b6770108c145c2d5e7c00417230  data/data/com.termux/files/usr/lib/cmake/jsoncpp/jsoncppConfig.cmake
+73359e1bc1e4df582e2c47c7625a7973  data/data/com.termux/files/usr/lib/cmake/jsoncpp/jsoncppConfigVersion.cmake
+84d4f9c4a2b2adfccbf4c7c2c53118d8  data/data/com.termux/files/usr/lib/cmake/jsoncpp/jsoncppConfig-minsizerel.cmake
+1641ed68c451bdd954fd800a9fab2ce2  data/data/com.termux/files/usr/lib/pkgconfig/jsoncpp.pc
+07f305fc83806e483410755c590554d1  data/data/com.termux/files/usr/lib/libjsoncpp.so
